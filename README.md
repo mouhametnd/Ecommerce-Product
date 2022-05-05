@@ -28,8 +28,9 @@ Your users should be able to:
 ## Built with
 
 - Mobile-first workflow
-- HTML, CSS, SCSS
-- Javascript and Gulp.js
+- HTML
+- SCSS
+- Javascript, localStorage and Gulp.js
 
 ## How To Run The Project
 
