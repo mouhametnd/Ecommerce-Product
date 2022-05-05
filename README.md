@@ -5,7 +5,8 @@
 This project was a mentor frontend challenge that helped me put into practice the manipulation of the DOM with vanilla Javascript.
 
 ## Links
-- Author [Linkedin](https://www.linkedin.com/in/mouhametndiaye/)
+**Mouhamet Ndiaye**
+- My Likedin [Linkedin](https://www.linkedin.com/in/mouhametndiaye/)
 - Live Project [E-commerce Product](https://mouhametnd-ecommerce.netlify.app/)
 - Challenged by [frontend mentor](https://www.frontendmentor.io/home)
 
