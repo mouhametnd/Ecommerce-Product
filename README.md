@@ -8,6 +8,7 @@ This project was a mentor frontend challenge that helped me put into practice th
 - My Linkedin [Linkedin](https://www.linkedin.com/in/mouhametndiaye/)
 - Live Project [E-commerce Product](https://mouhametnd-ecommerce.netlify.app/)
 - Challenged by [frontend mentor](https://www.frontendmentor.io/home)
+- My email ahmetndiaye404@gmail.com
 
 ## Challenge  
 
