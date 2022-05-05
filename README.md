@@ -2,7 +2,7 @@
 
 ## Welcome 🍃
 
-This project was a mentor frontend challenge that helped me put into practice the manipulation of the DOM with vanilla Javascript.
+This project was a mentor frontend challenge that helped me put into practice the manipulation of the DOM with vanilla Javascript and Responsive Design.
 
 ## Links
 - My Linkedin [Linkedin](https://www.linkedin.com/in/mouhametndiaye/)
